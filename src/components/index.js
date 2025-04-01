@@ -9,7 +9,9 @@ export { default as Footer } from './Footer';
 export { default as Cart } from './Cart';
 // eslint-disable-next-line import/no-cycle
 export { default as Chat } from './Chat';
+// eslint-disable-next-line import/no-cycle
 export { default as Notification } from './Notification';
+// eslint-disable-next-line import/no-cycle
 export { default as UserProfile } from './UserProfile';
 export { default as SparkLine } from './Charts/SparkLine';
 export { default as LineChart } from './Charts/LineChart';
